@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulTheQA
 - 👀 I’m interested in Solving complex problems
 - 🌱 I’m currently learning Python and Devops
-- 💞️ I’m looking to collaborate on Automation
+- 💞️ I’m looking to ...
 - 📫 How to reach me ...
 
 <!---
